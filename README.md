@@ -1,3 +1,5 @@
+<img src="https://github.com/RGSalcido/UBD/blob/main/Images/Denali_Wonder%20Lake_Reflection.png?raw=true" width=840>
+
 **Short link: https://tinyurl.com/RGSalcido-UBD**
 
 # Understanding Before Doing Workshop
