@@ -1,3 +1,5 @@
+**Short link: https://tinyurl.com/RGSalcido-UBD**
+
 # Understanding Before Doing Workshop
 If you are a leader, a program manager, a project lead, or are a subject matter expert contributing to the success of a team - this workshop is for you. This workshop will introduce you to a fresh approach to leadership, a new approach to planning, and reinforce the importance of project management to help your team succeed in current and future endeavors. 
 
