@@ -1,7 +1,7 @@
 # Understanding Before Doing Workshop
 If you are a leader, a program manager, a project lead, or are a subject matter expert contributing to the success of a team - this workshop is for you. This workshop will introduce you to a fresh approach to leadership, a new approach to planning, and reinforce the importance of project management to help your team succeed in current and future endeavors. 
 
-Session Descriptions:
+**Session Descriptions:**
 
 ## 1. Leadership Session
 The [Leadership Session](https://github.com/RGSalcido/UBD/blob/main/Presentations/1st%20Session_Leadership_UBD_10%20Apr%202024_Final.pdf) will introduce you to a leadership approach grounded in humility, authenticity, and a positive mental attitude. Competent leadership realizes organizational success, effective planning, effective project management, and project success. This session will provide a fresh perspective on leadership to help shape positive work environments and allow teams to thrive.
@@ -15,7 +15,7 @@ The Project Management Session will reinforce project management methodologies, 
 ## About the Instructor
 Rudy Salcido is an experienced leader with over 28 years of leadership experience as a United States Marine Corps Officer. He has a background in directing, project management, and instruction, with expertise in leading operational cross-functional teams and implementing effective change. Rudy holds a Bachelor of Science degree in Accounting from the University of Arizona, a Master of Arts in Administrative Leadership from the University of Oklahoma, and is certified as a Project Management Professional (PMP)® by the Project Management Institute. He currently serves as a Program Manager with the Data Science Institute, University of Arizona, planning and overseeing multiple projects.
 
-**[Presentations](https://github.com/RGSalcido/UBD/tree/main/Presentations)**
+**[All Presentations](https://github.com/RGSalcido/UBD/tree/main/Presentations)**
 
 **Point of Contact / Information**
 
