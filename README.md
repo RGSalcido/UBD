@@ -15,7 +15,8 @@ The Project Management Session will reinforce project management methodologies, 
 ## About the Instructor
 Rudy Salcido is an experienced leader with over 28 years of leadership experience as a United States Marine Corps Officer. He has a background in directing, project management, and instruction, with expertise in leading operational cross-functional teams and implementing effective change. Rudy holds a Bachelor of Science degree in Accounting from the University of Arizona, a Master of Arts in Administrative Leadership from the University of Oklahoma, and is certified as a Project Management Professional (PMP)® by the Project Management Institute. He currently serves as a Program Manager with the Data Science Institute, University of Arizona, planning and overseeing multiple projects.
 
-## Point of Contact Information
+**Point of Contact / Information**
+
 rudy.g.salcido@gmail.com
 
 ***
