@@ -4,7 +4,7 @@ If you are a leader, a program manager, a project lead, or are a subject matter 
 Session Descriptions:
 
 ## 1. Leadership Session
-The Leadership Session will introduce you to a leadership approach grounded in humility, authenticity, and a positive mental attitude. Competent leadership realizes organizational success, effective planning, effective project management, and project success. This session will provide a fresh perspective on leadership to help shape positive work environments and allow teams to thrive.
+The [Leadership Session](https://github.com/RGSalcido/UBD/blob/main/Presentations/1st%20Session_Leadership_UBD_10%20Apr%202024_Final.pdf) will introduce you to a leadership approach grounded in humility, authenticity, and a positive mental attitude. Competent leadership realizes organizational success, effective planning, effective project management, and project success. This session will provide a fresh perspective on leadership to help shape positive work environments and allow teams to thrive.
 
 ## 2. Planning Session 
 The Planning Session will introduce you to a deliberate planning process. This planning process allows a team to organize information to gain an understanding of the problem, develop a solution, and articulate a plan. Understanding Before Doing is at the core why planning is important to understand the problem you’re trying to solve before trying to develop a solution. 
